@@ -9,6 +9,8 @@ public class GitClass {
         System.out.println("git class test");
         System.out.println("git class test");
         System.out.println("git class test");
+
+        // hahaha
     }
 
     public static void test(){
