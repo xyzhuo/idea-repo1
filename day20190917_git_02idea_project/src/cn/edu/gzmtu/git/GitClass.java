@@ -10,4 +10,10 @@ public class GitClass {
         System.out.println("git class test");
         System.out.println("git class test");
     }
+
+    public static void test(){
+        for (int i=1; i<=100; i++){
+            System.out.println(i);
+        }
+    }
 }
